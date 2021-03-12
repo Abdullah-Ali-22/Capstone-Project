@@ -13,4 +13,13 @@ For this project, the input data is collected from an online simulator of a cata
 link of the simulator: https://sigmazone.com/catapult/
 
 
+Libraries
+
+Numpy, matplotlip, pandas, sagemaker, sklearn.
+
+Software
+
+Jupter notebook, Python 3
+
+
 
