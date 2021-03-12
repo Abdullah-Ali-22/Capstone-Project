@@ -8,7 +8,9 @@ In this project I developed a XGBoost model in SageMaker to predict the distance
 
 Datasets
 
-For this project, the input data is collected from an online simulator of a catapult by changing. Link for the simulator is provided in the last page of the report. By changing the five inputs of the experiment (release angle, firing angle, cup elevation, pin elevation, and bungee position)
+For this project, the input data is collected from an online simulator of a catapult by changing. Link for the simulator is provided. By changing the five inputs of the experiment (release angle, firing angle, cup elevation, pin elevation, and bungee position)
+
+link of the simulator:https://sigmazone.com/catapult/
 
 
 
